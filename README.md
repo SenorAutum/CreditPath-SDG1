@@ -27,3 +27,5 @@ This model aids in extending financial services to underserved regions.
 
 ## ⚖️ Ethical Considerations
 While the model removes gender labels, "Job Type" can act as a proxy for gender bias in certain cultures. Future iterations will use "Fairness Constraints" to ensure equal False Positive Rates across demographic groups.
+Pitch deck link;
+https://www.canva.com/design/DAG9t7pDYug/Qk5lD_Rlp1z4wBLmhXLfpw/view?utm_content=DAG9t7pDYug&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf6e3c08388
