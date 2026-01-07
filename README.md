@@ -1,7 +1,7 @@
 # CreditPath: AI for Financial Inclusion 🌍💳
 ### Machine Learning Meets UN SDG 1: No Poverty
 
-**Author:** Brandon Mutua Mwanza
+**Author:** Brandon Mutua Mwanzia
 **Tech Stack:** Python, Scikit-Learn, Pandas, Matplotlib
 
 ## 📌 Project Overview
@@ -22,7 +22,8 @@ This model aids in extending financial services to underserved regions.
 * **Key Insight:** 'Job Type' and 'Education Level' were the strongest predictors of banking status.
 
 ## 📷 Screenshots
-*(Upload the Confusion Matrix image from the code output here)*
+<img width="927" height="625" alt="image" src="https://github.com/user-attachments/assets/f8131b21-17ff-4a15-ab58-79ff79f36970" />
+
 
 ## ⚖️ Ethical Considerations
 While the model removes gender labels, "Job Type" can act as a proxy for gender bias in certain cultures. Future iterations will use "Fairness Constraints" to ensure equal False Positive Rates across demographic groups.
